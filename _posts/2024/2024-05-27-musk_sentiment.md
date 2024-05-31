@@ -4,7 +4,7 @@ date: 2024-05-27
 categories: [Data Science, Data Engineering]
 tags: [aws, azure, twitter API, Apache Spark]
 image: 
-  path: /assets/images/pro_01/process_flow.webp
+  path: /assets/images/pro_01/process_flow.png
 ---
 
 > If you prefer to delve directly into the code, feel free to explore my github repository [here](https://github.com/olumyk/musk_sentiment) 
